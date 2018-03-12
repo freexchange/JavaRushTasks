@@ -2166,3 +2166,1266 @@ java.lang.NullPointerException
 2018-03-11 01:07:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
 2018-03-11 01:08:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
 2018-03-11 01:09:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:10:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:11:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:12:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:13:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:14:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:15:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:16:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:17:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:18:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:19:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:20:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:21:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:22:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:23:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:24:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:25:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:26:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:27:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:28:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:29:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:30:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:31:07 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 01:31:07 INFO  ApacheHttpClient.getFilteredTasks(314) - responseCode = 200
+2018-03-11 01:31:09 INFO  ApacheHttpClient.getTaskTemplateInfo(331) - responseCode = 200
+2018-03-11 01:31:10 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 01:31:10 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 01:31:10 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 01:31:10 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 01:31:10 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 01:31:13 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 01:31:13 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 01:31:13 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 01:31:13 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 01:31:13 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 01:31:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:32:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:33:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:34:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:35:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:36:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:37:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:38:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:39:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:40:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:41:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:42:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:43:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:44:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:45:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:46:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:47:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:48:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:49:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:50:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:51:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:52:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:53:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:54:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:55:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:56:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:57:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:58:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 01:59:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:00:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:01:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:02:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:03:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:04:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:05:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:06:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:07:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:08:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:09:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:10:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:11:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:12:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:13:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:14:02 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 02:14:02 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 02:14:02 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 02:14:05 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-11 02:14:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:15:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:16:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:17:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:18:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:19:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:20:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:21:34 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 02:21:34 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 02:21:34 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 02:21:37 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-11 02:21:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:22:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:23:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:24:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:25:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 02:26:41 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:02 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:09:41 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-03-11 12:10:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:11:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:12:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:13:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:14:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:15:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:16:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:17:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:18:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:19:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:20:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:21:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:22:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:23:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:24:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:25:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:26:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:27:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:28:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:29:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:30:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:31:42 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 12:32:22 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
+
+2018-03-11 12:32:22 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 12:32:22 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 18:19:14 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-03-11 18:19:14 INFO  ApacheHttpClient.createAsyncHttpClient(126) - Выбрано 1 прокси.
+2018-03-11 18:19:14 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-03-11 18:19:14 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:14 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:14 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-11 18:19:14 INFO  ApacheHttpClient.login(220) - responseCode = 200
+2018-03-11 18:19:14 INFO  ApacheHttpClient.login(251) - JSESSIONID=64DDAD073F41277F1C73952CDFB77E2A
+2018-03-11 18:19:15 INFO  ApacheHttpClient.refreshUserInfo(279) - responseCode = 200
+2018-03-11 18:19:15 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
+2018-03-11 18:19:15 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-03-11 18:19:15 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-03-11 18:19:16 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:16 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:16 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:16 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:17 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:17 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:17 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 18:19:17 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:17 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:17 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:17 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:17 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 18:19:19 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:19 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:19:19 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-11 18:19:19 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-11 18:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 18:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:02:35 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 19:02:35 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 19:02:35 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 19:02:38 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-11 19:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 19:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 20:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:48:35 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 21:48:35 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 21:48:35 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 21:49:07 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-11 21:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 21:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 22:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:46:01 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 23:46:01 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-11 23:46:01 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-11 23:46:04 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-11 23:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-11 23:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:07:53 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:07:53 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 00:07:53 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:07:56 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-12 00:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:17:56 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:17:56 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:17:56 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 00:17:59 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-12 00:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:53:45 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:53:46 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:53:46 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 00:53:49 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-12 00:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:54:25 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 00:54:25 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 00:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 00:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:22:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:23:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:24:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:25:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:26:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:27:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:28:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:29:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:30:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:31:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:32:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:32:44 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 01:32:47 INFO  ApacheHttpClient.resetTask(301) - responseCode = 200
+2018-03-12 01:32:47 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 01:32:47 INFO  ApacheHttpClient.getTaskTemplateInfo(331) - responseCode = 200
+2018-03-12 01:32:47 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-12 01:32:47 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-12 01:32:48 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-12 01:32:48 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-12 01:32:48 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 01:32:51 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-12 01:32:51 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-12 01:32:51 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-12 01:32:51 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-12 01:32:51 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 01:33:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:34:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:35:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:36:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:37:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:38:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:39:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:40:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:41:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:42:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:43:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:44:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:45:12 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 01:45:12 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 01:45:12 INFO  ApacheHttpClient.getWebResourceAsStream(427) - responseCode = 200
+2018-03-12 01:45:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:45:16 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-03-12 01:45:16 INFO  ApacheHttpClient.getTask(412) - responseCode = 200
+2018-03-12 01:46:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:47:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:48:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:49:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:50:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:51:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:52:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:53:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:54:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:55:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:56:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:57:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:58:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 01:59:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:00:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:01:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:02:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:03:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:04:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:05:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:06:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:07:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:08:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:09:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:10:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:11:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:12:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:13:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:14:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:15:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:16:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:17:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:18:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:19:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:20:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
+2018-03-12 02:21:15 INFO  ApacheHttpClient.sendEvent(457) - responseCode = 200
