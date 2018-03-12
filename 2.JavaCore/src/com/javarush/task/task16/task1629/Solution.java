@@ -23,7 +23,6 @@ public class Solution {
     }
 
     public static class Read3Strings extends Thread{
-        volatile String str = "";
         private List<String> result = new ArrayList<String>();
         String s = "";
 
@@ -37,8 +36,7 @@ public class Solution {
         public void run() {
             try {
                 for (int i = 0; i < 3; i++) {
-                    s = Solution.reader.readLine();
-                    result.add(s);
+                    result.add(Solution.reader.readLine());
                 }
                 //System.out.println(s);
             } catch (IOException e) {
