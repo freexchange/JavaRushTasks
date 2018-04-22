@@ -24,7 +24,7 @@ public class Solution {
         input.close();
         double result = (double)count2/count1*100;
         System.out.printf("%.2f", result);
-        System.out.println(BigDecimal.valueOf(result).setScale(2,BigDecimal.ROUND_HALF_DOWN).doubleValue());
+        //System.out.println(BigDecimal.valueOf(result).setScale(2,BigDecimal.ROUND_HALF_DOWN).doubleValue());
 
     }
 }
