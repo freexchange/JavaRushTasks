@@ -4,7 +4,6 @@ package com.javarush.task.task19.task1903;
 Адаптация нескольких интерфейсов
 */
 
-import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -45,13 +44,18 @@ public class Solution {
 
         @Override
         public String getPhoneNumber() {
-            String sNumber = new DecimalFormat("0000000000").format(data.getPhoneNumber());
-            return String.format("+%d(%s)%s-%s-%s", data.getCountryPhoneCode(),
-                    sNumber.substring(0, 3), sNumber.substring(3, 6),
-                    sNumber.substring(6, 8), sNumber.substring(8, 10));
+            int phoneNumberLength = 10 - String.valueOf(data.getPhoneNumber()).length();
+            String phoneNumber = "";
+            if (phoneNumberLength >= 1) {
+                phoneNumber = "+" + String.valueOf(data.getCountryPhoneCode()) + "(0" +
+                        String.valueOf(data.getPhoneNumber()).substring(0, 2) + ")" +
+                        String.valueOf(data.getPhoneNumber()).substring(2, 5) + "-" +
+                        String.valueOf(data.getPhoneNumber()).substring(5, 7) + "-" +
+                        String.valueOf(data.getPhoneNumber()).substring(7, 9);
+            }
+            return phoneNumber;
         }
     }
-
 
 
     public static interface IncomeData {
